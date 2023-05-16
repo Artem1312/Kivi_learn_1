@@ -8,9 +8,9 @@ from pygments.lexers import HtmlLexer
 # https://www.youtube.com/watch?v=VIy3hktYKwE
 
 from kivy.config import Config
-Config.set('graphics', 'resizable', '0');
-Config.set('graphics', 'width', '640');
-Config.set('graphics', 'height', '480');
+Config.set('graphics', 'resizable', '0')
+Config.set('graphics', 'width', '640')
+Config.set('graphics', 'height', '480')
 
 
 from kivy.uix.floatlayout import FloatLayout
